@@ -2,6 +2,13 @@ name: hw_video_compress
 description: A Flutter plugin for video compression on Android and iOS using hardware-accelerated APIs.
 version: 1.0.0
 repository: https://github.com/musabnawab/hw_video_compress
+topics:
+  - video
+  - video-compression
+  - hardware-acceleration
+  - media
+  - transcoding
+
 
 environment:
   sdk: ^3.12.0
