@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Added topics to `pubspec.yaml` to improve search discoverability (SEO) on pub.dev.
+
 ## 1.0.0
 
 * Initial release of `hw_video_compress`.
